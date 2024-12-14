@@ -1,0 +1,5 @@
+[msg MSG_NPC_00_11 [Stylish student]]
+[s]Have you heard that apparently Ms. Kashiwagi[n]chose the hotel we'll be staying at for[n]the school trip?[n][w][e]
+[s]I guess she was bragging about how she[n]found a nice place for cheap, but[n]still...[n][w][e]
+[s]I don't know if I can trust her sense[n]of taste, man. I'm worried. Very[n]worried.[n][w][e]
+[s]That girl definitely didn't get all of[n]her facts straight...[n][w][e]
