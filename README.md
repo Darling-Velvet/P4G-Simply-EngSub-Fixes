@@ -1,4 +1,4 @@
-# P4G-Simply-EngSub-Fixes
+# Simple Localization Fixes
 a simple text replacement mod to fix grammatical/spelling errors in persona 4 golden
 
 open an issue to submit fixes (and be SURE to indicate which event/field script file its in, if you can!)
